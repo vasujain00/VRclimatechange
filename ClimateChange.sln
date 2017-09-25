@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimateChange.Plugins", "ClimateChange.Plugins.csproj", "{83A4D74F-9B8E-9D75-806A-AFC14888F8B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimateChange", "ClimateChange.csproj", "{29B9F1ED-0E22-DEA3-5DB9-38C43BFF9FDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimateChange.Editor", "ClimateChange.Editor.csproj", "{D6552994-40DC-FAA8-7CBD-B02436B32FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A4D74F-9B8E-9D75-806A-AFC14888F8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A4D74F-9B8E-9D75-806A-AFC14888F8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A4D74F-9B8E-9D75-806A-AFC14888F8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A4D74F-9B8E-9D75-806A-AFC14888F8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B9F1ED-0E22-DEA3-5DB9-38C43BFF9FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B9F1ED-0E22-DEA3-5DB9-38C43BFF9FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B9F1ED-0E22-DEA3-5DB9-38C43BFF9FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B9F1ED-0E22-DEA3-5DB9-38C43BFF9FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6552994-40DC-FAA8-7CBD-B02436B32FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6552994-40DC-FAA8-7CBD-B02436B32FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6552994-40DC-FAA8-7CBD-B02436B32FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6552994-40DC-FAA8-7CBD-B02436B32FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
